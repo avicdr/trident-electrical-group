@@ -1,0 +1,7 @@
+.alice-carousel__prev-btn, .alice-carousel__next-btn{
+    display: none;
+}
+
+.alice-carousel__dots{
+    padding: 0 !important;
+}
